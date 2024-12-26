@@ -1,0 +1,7 @@
+.
+├── demo.py - Contains binary convolution implementation using PyTorch
+└── matrix_solver.py - Implements optimized solution for finding input matrix given target matrix
+    - Includes dimension validation
+    - Handles matrix padding
+    - Implements scoring system
+    - Uses random search optimization 
